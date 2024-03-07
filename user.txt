@@ -1,0 +1,12 @@
+admin;password
+Michelle;michelle
+
+Mimi;mimi
+London;London
+MyBelleMich;mybellemich
+
+angel;angel
+kemiera;kemiera
+rex;rex
+janet;janet
+tester;tester

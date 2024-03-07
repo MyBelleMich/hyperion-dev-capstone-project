@@ -1,0 +1,70 @@
+============================================================
+User Overview Report:
+Date and Time of Report: 2024-03-01 22:35
+
+Total Users: 9
+Total Tasks: 12
+
+User: admin
+Total Tasks Assigned: 3
+Percentage of Total Tasks: 25.00%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 100.00%
+Percentage of Overdue Tasks: 100.00%
+
+User: Michelle
+Total Tasks Assigned: 7
+Percentage of Total Tasks: 58.33%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 100.00%
+Percentage of Overdue Tasks: 71.43%
+
+User: Mimi
+Total Tasks Assigned: 1
+Percentage of Total Tasks: 8.33%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 100.00%
+Percentage of Overdue Tasks: 0.00%
+
+User: London
+Total Tasks Assigned: 0
+Percentage of Total Tasks: 0.00%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 0.00%
+Percentage of Overdue Tasks: 0.00%
+
+User: MyBelleMich
+Total Tasks Assigned: 1
+Percentage of Total Tasks: 8.33%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 100.00%
+Percentage of Overdue Tasks: 100.00%
+
+User: angel
+Total Tasks Assigned: 0
+Percentage of Total Tasks: 0.00%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 0.00%
+Percentage of Overdue Tasks: 0.00%
+
+User: kemiera
+Total Tasks Assigned: 0
+Percentage of Total Tasks: 0.00%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 0.00%
+Percentage of Overdue Tasks: 0.00%
+
+User: rex
+Total Tasks Assigned: 0
+Percentage of Total Tasks: 0.00%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 0.00%
+Percentage of Overdue Tasks: 0.00%
+
+User: janet
+Total Tasks Assigned: 0
+Percentage of Total Tasks: 0.00%
+Percentage of Completed Tasks: 0.00%
+Percentage of Uncompleted Tasks: 0.00%
+Percentage of Overdue Tasks: 0.00%
+
